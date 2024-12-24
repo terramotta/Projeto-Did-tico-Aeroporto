@@ -11,6 +11,10 @@
 	
 */
 
+/*
+novo trecho de código
+*/
+
 
 # include <stdio.h>             	//Adiciona a biblioteca que permite a comunicação entre meu código e os recursos do meu monitor
 # include <locale.h>           	 	//Adiciona a biblioteca que permite o uso de caractéres da lingua portuguesa
